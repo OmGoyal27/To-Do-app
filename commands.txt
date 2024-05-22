@@ -1,0 +1,5 @@
+The available commands are:
+-   Enter "View" to view a list of pending tasks.
+-   Enter "Remove" to remove a task.
+-   Enter "Add" to add a task.
+-   Enter "Exit" to exit.
